@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.test1{
+	margin: 20px;
+	width:600px;
+}
+p{
+	width: 300px;
+	padding: 50px;
+	text-align: center;
+	border: 15px solid blue;
+}
