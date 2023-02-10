@@ -1,14 +1,7 @@
-
-/* Your CSS Code here. */
 .test1{
 	margin: 20px;
-	width:300px;
-	background-colour:rgb(173, 216, 230);
-}
-p{
-	background: lightblue;
+	border: 15px solid blue;
 	width: 300px;
 	padding: 50px;
-	text-align: center;
-	border: 15px solid blue;
+	background: lightblue;
 }
